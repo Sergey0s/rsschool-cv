@@ -1,0 +1,15 @@
+html {
+    width: 60%;
+    margin: auto;
+}
+
+header {
+    padding: 0.5rem;
+    display: flex;
+    justify-content: space-around;
+}
+
+header img {
+    height: 120px;
+    width: auto;
+}
